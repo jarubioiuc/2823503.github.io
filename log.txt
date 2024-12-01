@@ -1,0 +1,23 @@
+commit 0a72b86cb7868a897b4174587ad1d15768b72541
+Author: mlarause <131489420+camiloAC28@users.noreply.github.com>
+Date:   Sat Nov 30 15:53:42 2024 -0500
+
+    agregamos un JS
+
+commit 537596c1345ea83888602f28f2689f199307252d
+Author: mlarause <131489420+camiloAC28@users.noreply.github.com>
+Date:   Sat Nov 30 15:42:10 2024 -0500
+
+    Estoy aprendiendo alfin
+
+commit 04cafe0ee74cd6e8869f4d47b15e98f5f30a170a
+Author: mlarause <131489420+camiloAC28@users.noreply.github.com>
+Date:   Sat Nov 30 15:31:04 2024 -0500
+
+    Agrege un encabezado y un tiutlo
+
+commit 4e73f7c42f4862d98b8e98f8ee1c4d07f3057a76
+Author: mlarause <131489420+camiloAC28@users.noreply.github.com>
+Date:   Sat Nov 30 15:21:40 2024 -0500
+
+    Este es el primer commit
